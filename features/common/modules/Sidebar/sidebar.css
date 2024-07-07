@@ -1,0 +1,7 @@
+.sidebar_overlay--opened {
+    transition: 400ms;
+}
+
+.sidebar_overlay--closed {
+    transition: 650ms;
+}
